@@ -1,5 +1,5 @@
 
-# **Stable Diffusion Inference from Scratch** 🚀  
+# **Stable Diffusion Inference from Scratch** 
 
 This project reconstructs the **Stable Diffusion inference pipeline from scratch**, implementing **UNet, VAEs, and DDPM sampling** for image generation. While model weights are imported (no training loops included), the architecture is built entirely from the ground up.  
 
